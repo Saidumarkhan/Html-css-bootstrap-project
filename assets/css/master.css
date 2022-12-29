@@ -105,6 +105,7 @@
     align-items: center;
     justify-content: center;
     margin-right: 6px;
+    border-radius: 50%;
 }
 .text-brand{
     color: var(--c-brand);
